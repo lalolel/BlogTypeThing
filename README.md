@@ -1,0 +1,2 @@
+# BlogTypeThing
+Blog type thing
